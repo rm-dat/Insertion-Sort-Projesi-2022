@@ -1,5 +1,6 @@
 # Insertion-Sort-Projesi-2022
 Patika.Dev Ödevi
+
 1- Sort Türüne Göre Aşamalar:
 
 [2,22,27,16,18,6]
